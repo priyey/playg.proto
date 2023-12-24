@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    padding:0;
+
+}
+body{
+    background-image: linear-gradient(rgba(230, 218, 218, 0.491),rgba(255, 249, 249, 0.281))
+}
+.heading h1{
+    font-family: serif;
+    font-size: 40px;
+    font-weight: 300px;
+    text-align: center;
+    margin-top: 30px;
+    
+}
+.formAttr { 
+    margin-left:400px;
+    margin-top:10px;
+    
+}
+.formAttr input{
+    width:170px;
+    height:20px;
+
+}
+h2{
+    text-align: center;
+}
+.table{
+    
+}
